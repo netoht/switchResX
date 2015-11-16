@@ -1,5 +1,7 @@
 # Fixing switchResx saving issue
 
+  PS: you should perform before continue (rootless):  http://osxdaily.com/2015/10/05/disable-rootless-system-integrity-protection-mac-os-x/
+
 Recently I bought a ultra-wide monitor which a really weird but useful 21:9 aspect ratio.The only way mac would support this if i get a mini displayport to displayport adapter.
 
 Since some orders take weeks for souq to fullfil.I decided to the use the single DVI cable from my older monitor on the new one.Once I plugged it in I faced the same issue the mac would only render only upto Full HD or 1920 X 1080.After a quick googling I found that SwitchResX can solve this issue.
